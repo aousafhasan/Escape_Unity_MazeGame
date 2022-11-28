@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8b9fdc0a6c42da3469aa05b3adfc2b81
+  - enabled: 1
+    path: Assets/Scenes/SS.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MapOneDay.unity
+    guid: 590381de621160c4182a95e6f80d6806
+  - enabled: 1
+    path: Assets/Scenes/MapOneNight.unity
+    guid: 4e4cb7baf28c08a45b6b402ea7b5797d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MapTwoDay.unity
+    guid: e25c6abaf9a013e4e816c3098f5a6021
+  - enabled: 1
+    path: Assets/Scenes/MapTwoNight.unity
+    guid: 64ca761f0df2d9d4a84e85162e763348
+  - enabled: 1
+    path: Assets/Scenes/EndT.unity
+    guid: 9006ac02b3b2cc44abf2b7299a278f37
+  - enabled: 1
+    path: Assets/Scenes/Congratulation Page.unity
+    guid: b1c549951800f484fa71db38ed96fd38
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1116861d36abb4842ba015c7a51037b5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 10f114415c6f7a545b34e51c8983f25f, type: 2}
